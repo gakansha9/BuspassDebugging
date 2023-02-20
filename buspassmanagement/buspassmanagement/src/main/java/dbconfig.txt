@@ -1,0 +1,3 @@
+jdbc:sqlserver://localhost:1433;databaseName=project;integratedSecurity=false;encrypt=true;trustServerCertificate=true
+atlas
+atlas
